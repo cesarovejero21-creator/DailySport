@@ -1,0 +1,63 @@
+/* Estilos generales */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(158, 27, 27);
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+/* Encabezado */
+.encabezado {
+  background-color: white;
+  color: rgb(158, 27, 27);
+  border-radius: 10px;
+  text-align: center;
+  padding: 80px 0;
+}
+
+.encabezado h1 {
+  font-size: 60px;
+  margin: 0;
+}
+
+/* Contenedor de noticias */
+.contenedor-noticias {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+/* Tarjetas de noticias */
+.tarjeta {
+  background-color: white;
+  color: rgb(158, 27, 27);
+  border-radius: 10px;
+  padding: 15px;
+  width: 30%;
+  text-decoration: none;
+  transition: transform 0.2s ease;
+}
+
+.tarjeta:hover {
+  transform: scale(1.03);
+}
+
+.tarjeta img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.tarjeta h2 {
+  font-size: 20px;
+}
+
+.tarjeta p {
+  font-size: 20px;
+}
+.noticia{
+  background-color: white;
+   color: rgb(158, 27, 27); 
+  border-radius: 10px;
+}
