@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diario_deportivo>
+  <metadatos>
+    <nombre>SPORT DAILY</nombre>
+    <autor>César</autor>
+    <idioma>es-es</idioma>
+    <descripcion>Diario deportivo con resultados y noticias</descripcion>
+  </metadatos>
+
+  <noticias>
+    <noticia id="1">
+      <titular>ILIA TOPURIA POR EL TRIPLE CAMPEONATO</titular>
+      <categoria>UFC / MMA</categoria>
+      <contenido>Tras conquistar los títulos en peso pluma y ligero, Topuria anuncia su intención de ascender al peso wélter para intentar convertirse en el primer campeón de tres divisiones de la UFC.</contenido>
+      <enlace>noticia1.html</enlace>
+      <imagen>imagenes/foto1.jpeg</imagen>
+    </noticia>
+
+    <noticia id="2">
+      <titular>XABI DA PISTAS PARA EL CLASICO</titular>
+      <categoria>Fútbol</categoria>
+      <contenido>El duelo de Getafe aclara varias dudas a Xabi Alonso antes de una semana decisiva.</contenido>
+      <enlace>noticia2.html</enlace>
+      <imagen>imagenes/PWGDFCQY7BLR5EDLPVGMK3A6KE.jpg.jpg</imagen>
+    </noticia>
+
+    <noticia id="3">
+      <titular>ALCARAZ Y GRANOLLERS REGRESAN PARA LA "FINAL A 8" DE LA COPA DAVIS</titular>
+      <categoria>Tenis</categoria>
+      <contenido>David Ferrer: "Tendremos nuestras opciones, somos un equipo que sabe manejar la presión"</contenido>
+      <enlace>noticia3.html</enlace>
+      <imagen>imagenes/fotonoticia_20251020122716_1200.jpg</imagen>
+    </noticia>
+  </noticias>
+</diario_deportivo>
